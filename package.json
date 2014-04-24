@@ -1,0 +1,26 @@
+{
+  "name": "webgme-query",
+  "version": "0.1.0",
+  "description": "Pegasus plugin for webgme",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "homepage": "http://github.com/kecso/webgme-query",
+  "keywords": [
+      "webgme",
+      "database query"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/kecso/webgme-query.git"
+  },
+  "bugs": {
+    "url": "http://github.com/kecso/webgme-query/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+      "webgme": "https://github.com/webgme/webgme/tarball/master"
+  },
+  "devDependencies": {},
+  "main": "run_query.js"
+}
